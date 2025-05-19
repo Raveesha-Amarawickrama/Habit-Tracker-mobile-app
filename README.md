@@ -87,5 +87,4 @@ bash
 npx react-native run-ios
 ⚠ Make sure your Android emulator or iOS simulator is running.
 
-📽 Demo Video
-📎 
+ 
